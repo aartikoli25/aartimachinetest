@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c61d980e-4521-41a9-8e62-5d8a712c2578" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="67895a8e0206" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Kotlin File" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fzKDtK3M3VkYM2i8blSpCtriCZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="xiaomi-redmi_7a-67895a8e0206" />
+    <property name="DEBUGGABLE_PROCESS" value="com.exam.application" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="67895a8e0206" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-13T07:48:42.227Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/Source code/android-paging-master" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.exam.application.model" />
+      <recent name="com.example.practiceapplication.presenter.allShape" />
+      <recent name="com.example.practiceapplication.model.allShapeResponse" />
+      <recent name="com.example.practiceapplication.model" />
+      <recent name="com.example.practiceapplication.view.ui" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="com.example.practiceapplication.network" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.practiceapplication.view.utils" />
+      <recent name="com.example.practiceapplication.network" />
+      <recent name="com.example.practiceapplication.presenter" />
+      <recent name="com.example.practiceapplication.view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Peter\PracticeApplication\app\src\main\res\drawable" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Peter\PracticeApplication\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Peter\PracticeApplication\app\src\main\res\drawable" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.exam.application.view.utils" />
+      <recent name="com.example.practiceapplication.view.utils" />
+      <recent name="com.example.practiceapplication.network" />
+    </key>
+    <key name="android.template.1591916864">
+      <recent name="com.example.practiceapplication" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c61d980e-4521-41a9-8e62-5d8a712c2578" name="Default Changelist" comment="" />
+      <created>1597215364478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597215364478</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="80" y="25" key="#PSD" timestamp="1597299378209">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="80" y="25" key="#PSD/0.0.1366.720@0.0.1366.720" timestamp="1597299378209" />
+    <state x="423" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1597926234012">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="423" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.720@0.0.1366.720" timestamp="1597926234012" />
+    <state x="407" y="0" width="692" height="720" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1597847317029">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="407" y="0" width="692" height="720" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1597847317029" />
+    <state x="273" y="208" key="AndroidCreateResourceFileDialog" timestamp="1597921443346">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="273" y="208" key="AndroidCreateResourceFileDialog/0.0.1366.720@0.0.1366.720" timestamp="1597921443346" />
+    <state x="519" y="105" key="AndroidProcessChooserDialog" timestamp="1597929237081">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="519" y="105" key="AndroidProcessChooserDialog/0.0.1366.720@0.0.1366.720" timestamp="1597929237081" />
+    <state width="590" height="546" key="DebuggerActiveHint" timestamp="1597929326067">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="590" height="546" key="DebuggerActiveHint/0.0.1366.720@0.0.1366.720" timestamp="1597929326067" />
+    <state x="409" y="54" key="FileChooserDialogImpl" timestamp="1597989165990">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="409" y="54" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1597989165990" />
+    <state width="1308" height="435" key="GridCell.Tab.0.bottom" timestamp="1598103414763">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1308" height="435" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1598103414763" />
+    <state width="1308" height="435" key="GridCell.Tab.0.center" timestamp="1598103414762">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1308" height="435" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1598103414762" />
+    <state width="1308" height="435" key="GridCell.Tab.0.left" timestamp="1598103414762">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1308" height="435" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1598103414762" />
+    <state width="1308" height="435" key="GridCell.Tab.0.right" timestamp="1598103414763">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1308" height="435" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1598103414763" />
+    <state x="335" y="24" width="681" height="655" key="StructurePopup" timestamp="1598004901242">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="335" y="24" width="681" height="655" key="StructurePopup/0.0.1366.720@0.0.1366.720" timestamp="1598004901242" />
+    <state x="91" y="91" width="1184" height="538" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597839213648">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="91" y="91" width="1184" height="538" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.720@0.0.1366.720" timestamp="1597839213648" />
+    <state x="302" y="140" key="com.intellij.ide.util.TipDialog" timestamp="1597984473517">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="302" y="140" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1597984473517" />
+    <state x="87" y="69" key="psd.add.library.dependency.panel.dimension" timestamp="1597299374501">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="87" y="69" key="psd.add.library.dependency.panel.dimension/0.0.1366.720@0.0.1366.720" timestamp="1597299374501" />
+    <state x="361" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1597931514145">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="361" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.720@0.0.1366.720" timestamp="1597931514145" />
+    <state x="262" y="0" width="840" height="718" key="search.everywhere.popup" timestamp="1598106653981">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="262" y="0" width="840" height="718" key="search.everywhere.popup/0.0.1366.720@0.0.1366.720" timestamp="1598106653981" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/exam/application/presenter/search/SearchPresenter.kt</url>
+          <line>88</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/exam/application/presenter/search/SearchPresenter.kt</url>
+          <line>80</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/exam/application/presenter/search/SearchPresenter.kt</url>
+          <line>83</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
