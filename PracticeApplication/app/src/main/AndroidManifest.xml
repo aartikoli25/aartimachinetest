@@ -12,7 +12,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.exam.application.ViewActivity"></activity>
+        <activity
+            android:name="com.exam.application.ViewActivity"
+            android:screenOrientation="portrait"></activity>
         <activity
             android:name="com.exam.application.MainActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">

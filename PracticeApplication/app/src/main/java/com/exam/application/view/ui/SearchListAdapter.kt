@@ -11,11 +11,12 @@ import com.bumptech.glide.Glide
 import com.exam.application.R
 import com.exam.application.ViewActivity
 import com.exam.application.model.Datum
+import java.util.ArrayList
 
 
 class SearchListAdapter(
     private var context: Context?,
-    private var dataList: List<Datum>
+    private var dataList: ArrayList<Datum>
 ) :
     RecyclerView.Adapter<SearchListAdapter.PopularHolder>() {
 
